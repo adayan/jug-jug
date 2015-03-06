@@ -5,9 +5,8 @@ name: "six pence"
 markdown: rdiscount
 
 author: "wayne"
-atom-baseurl: "/jug-jug"
+atom-baseurl: "/jug-jug/"
 disqus: "gopherwood"
-baseurl: /
 
 navigations:
   - title: Archive
