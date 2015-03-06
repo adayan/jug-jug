@@ -5,7 +5,7 @@ name: "six pence"
 markdown: rdiscount
 
 author: "wayne"
-atom-baseurl: "http://yumu128.github.io/jug-jug/"
+atom-baseurl: "http://yumu128.github.io/jug-jug"
 disqus: "gopherwood"
 
 navigations:
